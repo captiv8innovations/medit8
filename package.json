@@ -1,0 +1,29 @@
+{
+  "name": "medit8",
+  "version": "0.0.0",
+  "description": "A smart and simple jQuery-based HTML editor",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/captiv8innovations/medit8.git"
+  },
+  "author": "David Aslani <daslani@captiv8innovations.com>",
+  "license": "http://captiv8innovations.com/terms",
+  "bugs": {
+    "url": "https://github.com/captiv8innovations/medit8/issues"
+  },
+  "homepage": "https://github.com/captiv8innovations/medit8"
+}
